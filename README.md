@@ -4,9 +4,9 @@
 </div>
 
 **About me:**
-- 📚 I am in the 9th grade. I study mathematics, computer science and physics at an advanced level.
+- 📚 I am in the 9th grade. I study mathematics, computer science and physics at an advanced level. I’m also interested in 3D modeling and design.
 
-- 👨‍💻 I got into programming in 5th grade through my school’s coding club, where I was taught the basics of programming, algorithms, and language syntax. Right now, I’m diving into backend development.
+- 👨‍💻 I got into programming in 5th grade through my school’s coding club, where I was taught the basics of programming, algorithms, and language syntax. Right now, I’m diving into backend development and working with SQL data bases.
 
 - 🤩 I want to work on real tasks with a team of like‑minded people.
 
@@ -18,12 +18,13 @@
 - ⚡ Fun fact: He was twice a prize‑winner in an international competition of French poetry.
 
 
-<!--
-Here are some ideas to get you started:
+**Language and tools**
 
-- 🔭 I’m currently working on Telegram bot 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" width="40" hight="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" title="Numpy" width="40" hight="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" title="SQL" width="40" hight="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" title="Postgres" width="40" hight="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original.svg" title="SqlAlchemy" width="50" hight="50"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" title="Sqlite" width="40" hight="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" title="Fastapi" width="40" hight="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" title="Figma" width="40" hight="40"/>&nbsp;
